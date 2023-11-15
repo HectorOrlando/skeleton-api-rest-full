@@ -1,8 +1,5 @@
 # dependencies
 node_modules/
 
-
-# se utiliza para almacenar valores de entorno para el desarrollo
-!.env.local
-
+# variables de entorno
 .env
