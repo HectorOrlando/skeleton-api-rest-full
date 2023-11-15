@@ -67,8 +67,6 @@ Estos pasos deberían proporcionarte una guía básica para arrancar un proyecto
 
 ---
 
-![Ejemplo de POSTMAN](src\infrastructure\documents\postman.png)
-
 
 ### Pasos para agregar colecciones y entornos en Postman:
 
